@@ -17,6 +17,12 @@
         echo "<br> <br> a soma de $n1 com $n2 é igual a soma $soma.";
 
         echo "<br><br> o resultado da subtração de $n1 e $n2 é igual a: " .($n1-$n2) .".";
+
+        echo "<br><br> o resultado da multiplicação de $n1 e $n2 é igual a: " .($n1*$n2) .".";
+
+        echo "<br><br> o resultado da divisão de $n1 e $n2 é igual a: " .($n1/$n2) .".";
+
+        echo "<br><br> o resultado da resto de $n1 e $n2 é igual a: " .($n1%$n2) .".";
         ?>
     </body>
 </html>
